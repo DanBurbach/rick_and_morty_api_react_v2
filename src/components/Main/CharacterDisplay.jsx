@@ -7,7 +7,7 @@ const CharacterDisplay = (props) => {
     <div>
       <ul className="cards">
         <li className="card">
-          <img src={props.image}></img>
+          <img src={props.image} alt="character_image"></img>
           <h1>{props.name}</h1>
           <p>Status: {props.status} | Species: {props.species}</p>
           <p>Type: {props.type} | Gender: {props.gender}</p>
