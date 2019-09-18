@@ -1,68 +1,63 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Rick and Morty API Project (Built in React.js/Redux)
+![Main LandingPage](https://github.com/DanBurbach/rick-and-morty-api-react/blob/master/src/assets/Rick&MortyScreenShot.png?raw=true)
 
-## Available Scripts
+### __Created by Dan Burbach__
+#### __March  2019__
 
-In the project directory, you can run:
 
-### `npm start`
+## __Description__
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+Using React-Redux to call on an API key based project. (API has no need of key). Focus and main subject is Rick and Morty.
+```
+## __Setup/Installation Requirements__
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+  * Clone repository
 
-### `npm test`
+  * Open terminal
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  * Run npm install
 
-### `npm run build`
+  * npm run start
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  * Open a browser: http://localhost:8080/
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+  * Enjoy!
+  
+  * OR
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### __Technologies Used__
 
-### `npm run eject`
+  Javascript 16.8, React.js, Redux, CSS3, HTML, Babel, esLint, and webpack 2.6.0
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## __Future Development__
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  - [ ] Styling in CSS3 (possibly SCSS)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### __Version__
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Beta v1.0
 
-## Learn More
+## License(s)
+### Working Code is Licensed under the MIT license.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Code Splitting
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### All JSON code (and materials gathered from Cards Against Humanity) is Licensed under Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0)
 
-### Analyzing the Bundle Size
+You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+You may not use the material for commercial purposes.
 
-### Making a Progressive Web App
+If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#### Copyright 2019 Daniel Burbach
