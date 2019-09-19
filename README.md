@@ -1,7 +1,8 @@
 # Rick and Morty API Project (Built in React.js/Redux)
-![Main LandingPage](https://github.com/DanBurbach/rick-and-morty-api-react/blob/master/src/assets/Rick&MortyScreenShot.png?raw=true)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1c01c4f7-a773-41eb-b926-59d357d81de1/deploy-status)](https://app.netlify.com/sites/loving-galileo-7fed7e/deploys)
+
+![Main LandingPage](https://github.com/DanBurbach/rick-and-morty-api-react/blob/master/src/assets/Rick&MortyScreenShot.png?raw=true)
 
 ### __Created by Dan Burbach__
 #### __March 2019__
